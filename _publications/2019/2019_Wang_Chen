@@ -13,7 +13,7 @@ abstract: >-
 cover:          /assets/images/covers/cover3.jpg
 authors:
   - Ruoxi Wang  
-  - Zhuo Chen
+  - <strong>Zhuo Chen</strong>
   - Yongjie Zhou
   - Lining Shen
   - Zhiguo Zhang
