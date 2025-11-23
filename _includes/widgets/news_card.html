@@ -2,6 +2,9 @@
 
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
+<div class="pt-2 text-center">
+  <a href="/news/">See all news</a>
+</div>
     <div class="px-3 pb-1 small">
     {% for year in news_by_year | slice: 0, 2 %}
         <div class="media py-1 {% if not_first -%}border-top border-gray{%- endif %}">
