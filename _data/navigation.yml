@@ -11,7 +11,5 @@ pages:
   url: /publications
 - name: Teaching
   url: /teaching
-- name: CV
-  url: /cv
 - name: Showcase
   url: /showcase
