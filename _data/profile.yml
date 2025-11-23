@@ -4,7 +4,7 @@ navbar_name: "Zhuo (Adam) Chen"
 
 positions:
 - name: Professor of Health Policy and Management
-- name: University of Georgia
+- name: College of Public Health, University of Georgia (UGA)
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
@@ -35,7 +35,7 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: Iowa State University
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
