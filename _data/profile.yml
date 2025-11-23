@@ -5,7 +5,7 @@ navbar_name: "Zhuo (Adam) Chen"
 positions:
 - name: Professor of Health Policy and Management
 - name: College of Public Health, University of Georgia (UGA)
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/uga-logo.png  # Logo is optional
 
 
 email: "zchen1@uga.edu"
@@ -38,21 +38,21 @@ portrait_caption: >-
 
 education:
 - name: Iowa State University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/cyclone.png
   position: >- 
     Department of Economics <br/>
     PhD in Economics
   date: August 1999 - August 2004
 - name: Iowa State University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/cyclone.png
   position: M.S. in Statistics
   date: August 1999 - May 2002
 - name: University of Science and Technology of China
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/ustc.png
   position: M.Mgt. in Management Science
   date: Sep. 1996 - Jul. 1999
 - name: University of Science and Technology of China
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/ustc.png
   position: B.S. in Management Science
   date: Sep. 1991 - Jul. 1996
 # experience:
