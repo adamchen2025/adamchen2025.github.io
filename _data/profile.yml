@@ -35,7 +35,7 @@ short_bio: >-
    He also served as the President of the Asian Pacific Islander Employees of CDC/ATSDR during 2014-2016 and was awarded the Civilian Award of Excellence in Diversity by the Federal Asian Pacific American Council in 2016. 
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/Chen_2019_headshot.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
@@ -43,14 +43,21 @@ education:
 - name: Iowa State University
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
+    Department of Economics <br/>
+    PhD in Economics
+  date: August 1999 - August 2004
+- name: Iowa State University
+  logo: /assets/images/badges/PKU_red.png
+  position: M.S. in Statistics
+  date: August 1999 - May 2002
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
   position: B.S. in Computer Science
   date: Sep. 2019 - Jul. 2021
-
+  - name: Peking University
+  logo: /assets/images/badges/PKU_red.png
+  position: B.S. in Computer Science
+  date: Sep. 2019 - Jul. 2021
 # experience:
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
